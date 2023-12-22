@@ -10,7 +10,7 @@ IEEE transactions on medical imaging, 38(8), 1788-1800.
 
 Modified and tested by:
 Haiqiao Wang
-2110246069@email.szu.edu.com
+2110246069@email.szu.edu.cn
 Shenzhen University
 '''
 
