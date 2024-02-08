@@ -2,7 +2,7 @@
 
 By Haiqiao Wang, Dong Ni, Yi Wang.
 
-Paper link: [[TMI]]([https://link.springer.com/chapter/10.1007/978-3-031-43999-5_70](https://ieeexplore.ieee.org/document/10423043))
+Paper link: [[TMI]](https://ieeexplore.ieee.org/document/10423043)
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9-ff69b4.svg" /></a>
 <a href= "https://pytorch.org/"> <img src="https://img.shields.io/badge/PyTorch-11.3-2BAF2B.svg" /></a>
