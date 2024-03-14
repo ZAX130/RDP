@@ -18,7 +18,7 @@ LPBA [[link]](https://resource.loni.usc.edu/resources/atlases-downloads/)
 
 Mindboggle [[link]](https://osf.io/yhkde/)
 
-IXI [[link]](https://surfer.nmr.mgh.harvard.edu/pub/data/)
+IXI [[link]](https://surfer.nmr.mgh.harvard.edu/pub/data/) [[freesurfer link]](https://surfer.nmr.mgh.harvard.edu/pub/data/ixi/)
 
 Note that we use the processed IXI dataset provided by freesurfer.
 
