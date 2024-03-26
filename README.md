@@ -14,13 +14,18 @@ An unsupervised brain MR deformable registration method that achieves precise al
 
 
 ## Dataset
-LPBA [[link]](https://resource.loni.usc.edu/resources/atlases-downloads/)
+The official access addresses of the public data sets are as follows：
+
+LPBA [[link]](https://resource.loni.usc.edu/resources/atlases-downloads/) 
 
 Mindboggle [[link]](https://osf.io/yhkde/)
 
 IXI [[link]](https://surfer.nmr.mgh.harvard.edu/pub/data/) [[freesurfer link]](https://surfer.nmr.mgh.harvard.edu/pub/data/ixi/)
 
 Note that we use the processed IXI dataset provided by freesurfer.
+
+## Instructions
+For convenience, we are sharing the preprocessed [LPBA](https://drive.usercontent.google.com/download?id=1mFzZDn2qPAiP1ByGZ7EbsvEmm6vrS5WO&export=download&authuser=0) dataset used in our experiments. Once uncompressed, simply modify the "LPBA_path" in the Train.py file to the path name of the extracted data.
 
 ## Citation
 If you use the code in your research, please cite:
