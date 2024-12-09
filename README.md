@@ -47,3 +47,6 @@ The file `makePklDataset.py` shows how to make a pkl dataset from the original L
 
 ## Baseline Methods
 Several PyTorch implementations of some baseline methods can be found at [[SmileCode]](https://github.com/ZAX130/SmileCode/tree/main).
+
+## How can other datasets be used in this code?
+This is a common question, and please refer to the github page of [ChangeDataset.md](https://github.com/ZAX130/ModeTv2/blob/main/ChangeDataset.md) for more information.
