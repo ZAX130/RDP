@@ -35,9 +35,9 @@ If you find the code useful, please cite our paper.
   journal={IEEE Transactions on Medical Imaging}, 
   title={Recursive Deformable Pyramid Network for Unsupervised Medical Image Registration}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={43},
+  number={6},
+  pages={2229-2240},
   keywords={Deformation;Decoding;Feature extraction;Deformable models;Training;Image resolution;Image registration;Deformable image registration;convolutional neural networks;brain MRI},
   doi={10.1109/TMI.2024.3362968}}
 ```
